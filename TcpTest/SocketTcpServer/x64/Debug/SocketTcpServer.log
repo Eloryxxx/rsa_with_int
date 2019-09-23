@@ -1,0 +1,10 @@
+﻿  Generate moc_predefs.h
+  Moc'ing sockettcpserver.h...
+  sockettcpserver.cpp
+  moc_sockettcpserver.cpp
+sockettcpserver.cpp(118): warning C4100: “strIP”: 未引用的形参
+sockettcpserver.cpp(152): warning C4305: “初始化”: 从“double”到“float”截断
+sockettcpserver.cpp(153): warning C4305: “初始化”: 从“double”到“float”截断
+    正在创建库 D:\_Code\TcpTest\TcpTest\x64\Debug\\SocketTcpServer.lib 和对象 D:\_Code\TcpTest\TcpTest\x64\Debug\\SocketTcpServer.exp
+  SocketTcpServer.vcxproj -> D:\_Code\TcpTest\TcpTest\x64\Debug\SocketTcpServer.dll
+  SocketTcpServer.vcxproj -> D:\_Code\TcpTest\TcpTest\x64\Debug\SocketTcpServer.pdb (Full PDB)
